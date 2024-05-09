@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RhazesZaki
 - 👀 I’m interested in Playing Games
-- 🌱 I’m currently learning Sistem Informasi
+- 🌱 I’m currently learning Information Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Be objective
 - 😄 Pronouns: He
