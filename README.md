@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RhazesZaki
 - 👀 I’m interested Playing Games and Curiosity
-- 🌱 I’m currently learning Telecommunication Engineering
+- 🌱 I’m currently learning Telecommunication 
 - 😄 Pronouns: He
 
 <!---
