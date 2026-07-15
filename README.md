@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RhazesZaki
 - 👀 I’m interested Playing Games
 - 📡 I’m currently learning Telecommunication 
-- 😄 Pronouns: He
+- 😄 Pronouns: he/him
 
 <!---
 RhazesZaki/RhazesZaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
